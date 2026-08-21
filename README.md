@@ -1,10 +1,13 @@
 # Hi, I'm Riya Tank 👋
 
-### BE Computer Science & Technology Student | Aspiring Software Developer
+### BE Computer Science & Technology Student | Aspiring Web Developer
 
-I am a Computer Science & Technology student at LJ University with a strong interest in software development, web technologies, backend systems, and Artificial Intelligence.
+I am a Computer Science & Technology student at LJ University with a strong interest in web technologies, backend systems, and Artificial Intelligence.
 
-I enjoy turning ideas into practical projects and learning how software works behind the scenes. I am continuously improving my programming, problem-solving, and development skills by working on real-world projects.
+I enjoy building responsive, user-friendly web applications and learning how frontend and backend technologies work together to create real-world solutions.
+
+I am continuously improving my programming, problem-solving, and development skills by building real-world practical projects.
+
 
 ---
 
@@ -22,23 +25,26 @@ I enjoy turning ideas into practical projects and learning how software works be
 
 ## 🚀 What I'm Exploring
 
-🔹 Building practical applications using modern programming technologies
+🔹 Building responsive and user-friendly web applications
 
-🔹 Developing backend systems and REST APIs
+🔹 Developing modern frontend interfaces using HTML, CSS, Bootstrap and JavaScript
+
+🔹 Learning React.js for dynamic web applications
+
+🔹 Building backend applications using Django and REST APIs
 
 🔹 Working with databases and data-driven applications
 
-🔹 Exploring Artificial Intelligence and Machine Learning
-
-🔹 Improving problem-solving and software development skills
+🔹 Understanding how frontend, backend and databases work together
 
 ---
 
 ## 💡 Things I Like Building
 
- • 📊 Data-Driven Applications • 🌐 Web Applications • 🤖 AI/ML Applications 
+🌐 Responsive Websites • ⚛️ React Applications • ⚙️ Backend APIs • 🗄️ Database Applications • 💻 Full-Stack Projects
 
 ---
+
 
 ## 🎯 Current Mission
 
@@ -50,9 +56,10 @@ I am focused on strengthening my technical foundation, working on meaningful pro
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+
 
 ```text
+👨‍💻 Programming Languages
 ├── ☕ Java
 ├── 🐍 Python
 ├── ⚡ JavaScript
